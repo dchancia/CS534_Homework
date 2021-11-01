@@ -1,4 +1,4 @@
-# CS534 Homework 1
+# CS534 Homework 2
 
 Linear and quadratic discriminant analysis homework.
 
