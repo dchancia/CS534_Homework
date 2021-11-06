@@ -1,7 +1,7 @@
 import scipy.io
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.linear_model import ElasticNet, LogisticRegression
+from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import GridSearchCV, KFold
 from sklearn.metrics import mean_squared_error
 
